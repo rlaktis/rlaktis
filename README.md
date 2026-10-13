@@ -62,17 +62,6 @@ Used in university coursework, my bachelor's thesis and earlier projects:
 | [**PostgreStore**](https://github.com/rlaktis/postgre-store-api) | CRUD REST API with a layered architecture (controller, service, repository), Flyway migrations and a HikariCP connection pool. Unit tests and slice tests. | Java 21, Spring Boot 3, Spring Data JPA, PostgreSQL 16 | — *(backend API)* |
 | [**Task & Issue Tracking API**](https://github.com/rlaktis/task-and-issue-tracking-api) | REST API for managing tasks and issues, with a layered architecture, DTO validation and RFC 7807 error responses. | Java 21, Spring Boot 3 | — *(backend API)* |
 
----
-
-## What I Focus On
-
-- **Layered architecture:** separating controller, service, repository and entity/DTO layers.
-- **Databases:** relational modeling, foreign keys, indexes and versioned Flyway migrations.
-- **Testing:** unit tests plus `@DataJpaTest` and `@WebMvcTest` slice tests.
-- **Standards:** Java 21 records, RFC 7807 error responses, TypeScript strict mode.
-
----
-
 ## Learning
 
 - **IBM DevOps and Software Engineering Professional Certificate** (Coursera), in progress: microservices, CI/CD, Docker and Kubernetes, test-driven development.
