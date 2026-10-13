@@ -1,7 +1,7 @@
 # Hi, I'm Richard 👋
 ### Applied Informatics student at FEI STU
 
-Master's student of Applied Informatics at **FEI STU in Bratislava**. I'm interested in web development, backend development with Java and Spring, relational databases and testing.
+Master's student of Applied Informatics at **FEI STU in Bratislava**, interested in frontend and full-stack web development.
 
 ---
 
