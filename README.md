@@ -1,6 +1,7 @@
 # Hi, I'm Richard 👋
 
 Master's student of Applied Informatics at **FEI STU in Bratislava**, interested in frontend and full-stack web development.
+I'm always keen to learn new technologies and pick up new tools, and I'm looking for opportunities to grow in a real-world team.
 
 ---
 
