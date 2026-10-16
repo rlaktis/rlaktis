@@ -56,7 +56,6 @@ Used in university coursework, my bachelor's thesis and earlier projects:
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| [**SpheroMax**](https://github.com/rlaktis/sphero-max) | Full-stack movie discovery, watchlist management with 3-second optimistic undo deletion, cold-start poller, and CineGuess trivia. | Java 21, Spring Boot 3, Next.js 15, PostgreSQL, Docker | [Live App](https://sphero-max.vercel.app/) |
 | [**CryptoPulse**](https://github.com/rlaktis/crypto-pulse-market-tracker) | Cryptocurrency price tracker with a USD/EUR toggle, debounced search, a watchlist saved in localStorage and periodic price refresh. Includes custom hooks (`useDebounce`, `useLocalStorage`). | Next.js, React, TypeScript, Tailwind CSS | [Live App](https://crypto-pulse-market-tracker.vercel.app/) |
 | [**DevKanban**](https://github.com/rlaktis/devkanban) | Kanban board with state managed via `useReducer` and `useContext`, form validation with Zod, card filtering and localStorage persistence. | Next.js, React, TypeScript, Tailwind CSS | [Live App](https://devkanban-one.vercel.app/) |
 | [**Station Minigame**](https://github.com/rlaktis/station-minigame) | Browser minigame simulating a multi-window station interface: radio frequency scanner, terminal cipher decryption and a memory minigame. | Next.js, React, TypeScript, Tailwind CSS | [Live App](https://station-minigame.vercel.app/game) |
